@@ -1,0 +1,33 @@
+.navbar {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background-color: #FF9900;
+    color: white;
+}
+
+.title {
+    padding-left: 9px;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center ;
+}
+
+li {
+    display: inline;
+    border: grey 1px solid;
+    margin-right: 9px;
+    padding: 0 5px;
+}
+
+a {
+    color: white;
+    padding: 0 4px;
+    text-decoration: none;
+}
+
+a:hover {
+   color: black;
+  }
